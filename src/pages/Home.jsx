@@ -146,7 +146,7 @@ const addRestaurantToList = (newRestaurant) => {
             className="add-button"
             onClick={handleAddNew}
           >
-            ➕ Añadir Nuevo Restaurante
+            ➕ Agregar Restaurante
           </button>
         </div>
       </div>
